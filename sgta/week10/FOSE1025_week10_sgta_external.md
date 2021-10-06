@@ -44,9 +44,12 @@ Submit the Excel (.xlsx) file that shows the pivot table and chart of activities
 
 Modify your pivot table so that the chart shows the monthly averages with these two variants:
 
-1. Month of the year, regardless of the year: 
+1. Month of the year, regardless of the year:
+
 ![month-acre](month-acre.png)
+
 2. Month of the year and the year:
+
 ![month-year-acre](month-year-acre.png)
 
 # MATLAB
